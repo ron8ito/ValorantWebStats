@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/ValorantWeb/src/java/com/valorantstats/main/SelectMatches.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/ValorantWeb/web/ver_partidas.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/ValorantWeb/src/java/com/valorantstats/main/servlets/RegistroServlet.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/ValorantWeb/src/java/com/valorantstats/main/ConsultarServlet.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/ValorantWeb/src/java/com/valorantstats/main/DatabaseSetup.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/ValorantWeb/src/java/com/valorantstats/main/DatabaseConnection.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/ValorantWeb/src/java/com/valorantstats/main/DeleteMatch.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/ValorantWeb/src/java/com/valorantstats/main/UpdateMatch.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/ValorantWeb/web/index.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/ValorantWeb/src/java/com/valorantstats/main/InsertMatch.java</file>
+        </group>
+    </open-files>
+</project-private>
